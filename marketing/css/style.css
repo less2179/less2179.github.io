@@ -1,0 +1,35 @@
+body{
+  background-color: #FFFAFA;
+}
+h1  {
+      color: black;
+      font-size: 40pt;
+      font-weight: 100;
+      text-decoration: wavy;
+      text-shadow: 2px 2px 5px red;
+  }
+td, th{
+  border: 2px solid black;
+  padding: 15px;
+
+}
+table{
+border-spacing: 0px;
+}
+th{
+background-color: #FFFAFA;
+font-size: 18px;
+}
+h2, h3, h4 {
+  color: turquoise;
+  font-size: 25pt;
+  font-family: Times New Roman, sans-serif;
+}
+img {
+  width: auto;
+  border-radius: 0cap;
+  filter: none;
+}
+html {
+  text-align: center;
+}
